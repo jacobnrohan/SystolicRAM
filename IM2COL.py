@@ -3,7 +3,7 @@ from matplotlib import pyplot as pp
 import torch as pt
 
 
-def example(nb=1, ni=11, nx=13, ny=17):
+def example(nb=1, ni=11, nx=13, ny=17):    # prime numbers help to understand final tensor shape, see: prime-factorization
     v = pt.empty(nb, ni, nx, ny)
 
     # example_000()
