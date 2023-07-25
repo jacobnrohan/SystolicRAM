@@ -1,2 +1,2 @@
 # SystolicRAM
-Supporting ode for SystolicRAM IC design project
+Supporting code for SystolicRAM IC design project
